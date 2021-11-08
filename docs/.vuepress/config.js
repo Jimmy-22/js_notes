@@ -1,7 +1,7 @@
 module.exports = {
   title: '前端知识点总结',
   description: '作者：FerryXu',
-  //base: '/ferryxu/', 
+  base: '/vue-press/', 
   // 注入到当前页面的 HTML <head> 中的标签
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
