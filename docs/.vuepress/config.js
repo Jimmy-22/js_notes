@@ -1,7 +1,7 @@
 module.exports = {
   title: '前端知识点总结',
   description: '作者：FerryXu',
-  base: '/vue-press/', 
+  base: '/js_notes/', 
   // 注入到当前页面的 HTML <head> 中的标签
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -43,6 +43,14 @@ module.exports = {
           collapsable: false,
           children: [
               '/messi/2.md',
+          ]
+        },
+        {
+          title: '第三部分 未分类笔记',
+          collapsable: false,
+          children: [
+              '/messi/3.md',
+              '/messi/4.md',
           ]
         },
       ]
