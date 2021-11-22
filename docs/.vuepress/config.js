@@ -1,7 +1,7 @@
 module.exports = {
   title: '前端知识点总结',
   description: '作者：FerryXu',
-  base: '/js_notes/', 
+  base: '/js_notes/',
   // 注入到当前页面的 HTML <head> 中的标签
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
@@ -20,7 +20,7 @@ module.exports = {
         items: [
           { text: 'GitHub地址', link: 'https://github.com/ferrytsui' },
         ]
-      }        
+      }
     ],
     sidebar: {
       '/messi/': [
@@ -53,7 +53,7 @@ module.exports = {
               '/messi/4.md',
               '/messi/5.md',
           ]
-        },
+        }
       ]
       },
   }
