@@ -1,6 +1,6 @@
 module.exports = {
   title: '前端知识点总结',
-  description: '作者：FerryXu',
+  description: '作者：FerryTsui',
   base: '/js_notes/',
   // 注入到当前页面的 HTML <head> 中的标签
   head: [
