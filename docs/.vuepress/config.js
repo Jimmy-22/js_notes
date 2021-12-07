@@ -53,6 +53,13 @@ module.exports = {
               '/messi/4.md',
               '/messi/5.md',
           ]
+        },
+        {
+          title: '第四部分 前端进阶',
+          collapsable: false,
+          children: [
+            '/messi/6.md',
+          ]
         }
       ]
       },
